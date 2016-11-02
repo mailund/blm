@@ -1,5 +1,5 @@
 context("blm")
 
 test_that("we can fit blm objects", {
-  # Put some initial tests here.
+  assertthat::are_equal(blm(), 5)
 })

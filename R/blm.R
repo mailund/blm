@@ -10,5 +10,6 @@
 #' @export
 blm <- function(model, ...) {
   # implement your function here...
+  5
 }
 
